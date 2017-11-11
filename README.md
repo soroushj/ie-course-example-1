@@ -1,5 +1,8 @@
 # IE Course Example 1
-Example 1 for Internet Engineering course at the University of Guilan, Fall 2017.
-- `meta` and `link` tags
-- [The Open Graph protocol](http://ogp.me/)
-- [Schema.org vocabulary](http://schema.org/)
+
+This is a code example for the *Internet Engineering* course at the University of Guilan, Fall 2017.
+
+The purpose of this example is to familiarize students with:
+- The [`meta`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta) and [`link`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link) elements,
+- [The Open Graph protocol](http://ogp.me/), and
+- [Schema.org](http://schema.org/) vocabulary.
